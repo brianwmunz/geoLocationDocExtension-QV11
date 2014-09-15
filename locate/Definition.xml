@@ -1,0 +1,3 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ExtensionObject Label="locate" Path="locate" Description="Uses HTML5 to find the user's location" Type="document">
+</ExtensionObject>
